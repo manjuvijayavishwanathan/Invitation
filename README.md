@@ -31,4 +31,4 @@ Invitation/
 
 👨‍🏫 Acknowledgement
 
-I would like to thank my Mentor @Vimal4hckr for their valuable guidance and support throughout the development of this project. Mentor: @Vimal4hckr Author: @manjuvijayavish1
+I would like to thank my Mentor @Vimal4hckr for their valuable guidance and support throughout the development of this project. Mentor: @Vimal4hckr Author: @manjuvijayavishwanathan
